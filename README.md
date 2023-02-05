@@ -1,7 +1,7 @@
 # paper-scraper
 A Python tool to scrape and download Board Past Papers from ilmkidunya.com
 
-<h3>How to use?</h3>
+<h3>How To Use</h3>
 
 <ol>
   <li>
@@ -19,6 +19,7 @@ A Python tool to scrape and download Board Past Papers from ilmkidunya.com
 </ol>
 
 <p>Example of the paper-scraper process from VSCode terminal:</p>
+<img src="readme-assets/scraper-process.png">
 
 <h3>Result</h3>
 <p>Then it will start downloading the papers which will take some time depending on your internet speed. The expected result would look like this:</p>
