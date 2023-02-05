@@ -1,5 +1,5 @@
-<h1>Paper-Scraper</h1>
-<h4>A Python tool to scrape and download Board Past Papers from ilmkidunya.com</h4>
+# paper-scraper
+A Python tool to scrape and download Board Past Papers from ilmkidunya.com
 
 <h3>How to use?</h3>
 
