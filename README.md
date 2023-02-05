@@ -22,4 +22,5 @@ A Python tool to scrape and download Board Past Papers from ilmkidunya.com
 <img src="readme-assets/scraper-process.png">
 
 <h3>Result</h3>
-<p>Then it will start downloading the papers which will take some time depending on your internet speed. The expected result would look like this:</p>
+<p>Then it will start downloading the papers which will take some time depending on your internet speed. The structure of the folder in which the past papers will be saved will look like this:</p>
+<img src="readme-assets/result-folder-structure.png">
