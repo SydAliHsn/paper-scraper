@@ -1,4 +1,4 @@
-# past-scraper
+# paper-scraper
 A Python tool to scrape and download Board Past Papers from ilmkidunya.com
 
 <h3>How to use?</h3>
